@@ -12,7 +12,7 @@ window.DRAW_MATH_URL = 'math';
 window.DRAWIO_CONFIG = {
     "language": "",
     "customFonts": [],
-    "libraries": "general;ABC;uml;er;bpmn;flowchart;basic;arrows2",
+    "libraries": "",
     "customLibraries": [
       "L.scratchpad"
     ],
